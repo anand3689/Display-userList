@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+thead{
+  background: green;
+  color: white;  
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+th,td,tr{
+  border: 1px solid lightgray;
+  padding: 5px;
+}
+img{
+  width: 75px;
+}
+th{
+  font-weight: 600;
+}
